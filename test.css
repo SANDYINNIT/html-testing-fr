@@ -1,7 +1,7 @@
 * { border: 0.1em solid black; }
 
 .discontinued{
-
+    border: 0.1e, dotted black;
 }
 
 .rojo{
@@ -9,14 +9,24 @@
 }
 
 .negro{
-
+    background-color: black;
 }
 
 .texto-blanco{
-    color: white;
+    color: #fff;
 
 }
 
 .redondo{
+    border-radius: 50%;
+}
 
+.border-green {
+    border: 0.1em solid green;
+}
+
+.px50 {
+    width: 50px;
+    height: 50px;
+    text-align: center;
 }
